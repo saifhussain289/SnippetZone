@@ -5,10 +5,23 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 # 🗂️ Text Social
 
+
 A modern web application built with a powerful tech stack including **TypeScript**, **React**, **Next.js**, **Tailwind CSS**, and more.  
 This README explains the languages and technologies used, how to run the project locally, and how to deploy it on **GitHub Pages** and **Netlify**.
 
 ---
+
+## 🧱 Technology Stack
+
+| Tool / Framework       | Purpose                                  |
+|------------------------|------------------------------------------|
+| **Next.js 15**         | Framework for React – routing, SSR, SSG  |
+| **React 18**           | UI library for building components       |
+| **TypeScript**         | Type-safe JavaScript development         |
+| **Tailwind CSS**       | Utility-first CSS framework              |
+| **Shadcn/UI**          | Beautiful components built with Tailwind |
+| **Bun**                | JavaScript runtime and package manager   |
+
 
 ## 🧰 Languages and Technologies Used
 
