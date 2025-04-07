@@ -3,7 +3,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 
 
-# 🗂️ Text Social
+# 🗂️ A Text Social site Called SnippetZone
 
 
 A modern web application built with a powerful tech stack including **TypeScript**, **React**, **Next.js**, **Tailwind CSS**, and more.  
