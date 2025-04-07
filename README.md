@@ -1,50 +1,69 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-Text Social: Languages and Technologies Used
-I'll explain all the languages and technologies used in this project, how to run it locally, and how to deploy it on GitHub and Netlify.
 
-Languages and Technologies Used
-TypeScript (TS):
 
-A statically typed superset of JavaScript that compiles to plain JavaScript
-Used for all our logic and component definitions
-Provides type safety and better developer experience
-JavaScript (JS):
 
-The underlying language TypeScript compiles to
-Powers the client-side functionality of the application
-JSX/TSX:
 
-A syntax extension that allows mixing HTML-like structure within JavaScript/TypeScript
-Used in React components to define the UI structure
-HTML:
+# 🗂️ Text Social
 
-Used within the JSX/TSX for structuring the components
-Defines the application's layout and content structure
-CSS:
+A modern web application built with a powerful tech stack including **TypeScript**, **React**, **Next.js**, **Tailwind CSS**, and more.  
+This README explains the languages and technologies used, how to run the project locally, and how to deploy it on **GitHub Pages** and **Netlify**.
 
-Used via Tailwind CSS for styling all components
-Defines the appearance and layout of the application
-Next.js:
+---
 
-React framework for building web applications
-Provides routing, server-side rendering (though we're using static export)
-Handles build optimization
-React:
+## 🧰 Languages and Technologies Used
 
-JavaScript library for building user interfaces
-Used for creating all UI components and managing component state
-Tailwind CSS:
+### 📘 TypeScript (TS)
+- Statically typed superset of JavaScript
+- Used for all logic and component definitions
+- Provides type safety and enhanced developer experience
 
-Utility-first CSS framework for styling
-All styling in the project is done using Tailwind classes
-Shadcn/UI:
+### 💡 JavaScript (JS)
+- The core language TypeScript compiles to
+- Powers client-side interactivity and logic
 
-Component library built on Tailwind CSS and Radix UI
-Used for UI components like buttons, cards, and forms
-Bun:
+### 🧩 JSX / TSX
+- Syntax extension to write HTML-like structure in JS/TS
+- Used for React component markup
 
-JavaScript runtime and package manager
-Used for development, building, and running the application
+### 🧱 HTML
+- Used within JSX/TSX for structuring components
+- Defines layout and semantic content
+
+### 🎨 CSS (Tailwind CSS)
+- Tailwind utility-first classes used for all styling
+- Clean, consistent, and responsive design
+
+### ⚛️ React
+- JavaScript library for building UIs
+- Used for creating all reusable components and managing UI state
+
+### 🚀 Next.js
+- Framework built on top of React
+- Provides routing, static generation, and build optimization
+
+### 🎯 Shadcn/UI
+- UI component library built with Tailwind and Radix UI
+- Used for professional and accessible UI elements (e.g. buttons, cards)
+
+### ⚡ Bun
+- All-in-one JavaScript runtime and package manager
+- Used for development, builds, and running the project locally
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/text-social.git
+cd text-social
+
+
+
+
+
+
 
 
 ## Getting Started
