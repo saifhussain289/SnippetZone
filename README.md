@@ -9,6 +9,12 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 A modern web application built with a powerful tech stack including **TypeScript**, **React**, **Next.js**, **Tailwind CSS**, and more.  
 This README explains the languages and technologies used, how to run the project locally, and how to deploy it on **GitHub Pages** and **Netlify**.
 
+![image](https://github.com/user-attachments/assets/c5284345-421f-4d63-b221-2df1e558a25a)
+
+
+![image](https://github.com/user-attachments/assets/95f73e22-631f-4b7c-b3ad-cff73ca145ec)
+
+
 ---
 
 ## 🧱 Technology Stack
